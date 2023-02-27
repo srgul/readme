@@ -11,13 +11,8 @@ function whoAmI() {
     		lastname: 	"gul",
     		country: 	"Istanbul/Turkey",
     		position: 	"Software Developer",
-    		company: 	"Ozztech Information Security",
    		email: 		"saitramazangul@gmail.com",
-    		github: 	"srgul",
-    		linkedIn: 	"Sait Gul",
-    		webSite: 	"saitramazangul.com",
-		baseLang:	"ng g m srgul --routing --skip-test",
-		write: 		[Python, C#, .Net, Vue, Html-Css-Js, NodeJs, MongoDB, Gulp, CodeceptJs, ...]
+    		github: 	"srgul"
     }
     
     console.log(srgul)
