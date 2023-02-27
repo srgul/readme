@@ -7,8 +7,7 @@
 ```javascript
 function whoAmI() {
 	let srgul = {
-  		name: 		"sait",
-    		lastname: 	"gul",
+  		name: 		"sait gul",
     		country: 	"Istanbul/Turkey",
     		position: 	"Software Developer",
    		email: 		"saitramazangul@gmail.com",
