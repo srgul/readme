@@ -1,21 +1,4 @@
 <h1 align="left"> Hi 👋, I’m Sait .</h1>
 
-<h2 align="right">Software Developer ...</h2>
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=srgul&show_icons=true&theme=radical)
 
-####Javascript　
-
-```javascript
-function whoAmI() {
-	let srgul = {
-  		name: 		"sait gul",
-    		country: 	"Istanbul/Turkey",
-    		position: 	"Software Developer",
-   		email: 		"saitramazangul@gmail.com",
-    		github: 	"srgul"
-    }
-    
-    console.log(srgul)
-  }
-
-whoAmI()
-```
