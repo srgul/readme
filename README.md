@@ -12,7 +12,7 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![Nextjs](https://img.shields.io/badge/--3178C6?logo=nextjs&logoColor=ffffff)]
+[![Next](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=FFFFFF)]
 
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
