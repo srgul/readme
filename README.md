@@ -21,8 +21,6 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=srgul&show_icons=true&theme=radical)
 
-[![Sait's github trophy](https://github-profile-trophy.vercel.app/?username=srgul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Sait's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Sait's github trophy](https://github-profile-trophy.vercel.app/?username=srgul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
