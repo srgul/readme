@@ -23,7 +23,6 @@
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
-[![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=srgul&show_icons=true&theme=radical)
