@@ -18,6 +18,24 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=FFFFFF)
 ![Css](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF)
 
+![Sass Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+![SCSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
+![Grunt Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/grunt/grunt-original.svg)
+![Gulp Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg)
+![Webpack Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg)
+<img src="https://tailwindcss.com/favicon-32x32.png" alt="Tailwind Icon" width="24"/>
+<img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/docs/.vuepress/public/logo.png" alt="daisyUI Icon" width="24"/>
+![NestJS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)
+![Node.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
+![Express.js Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)
+![MongoDB Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)
+![Microsoft SQL Server Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg)
+![MySQL Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![RabbitMQ Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg)
+![Hasura Icon](https://raw.githubusercontent.com/hasura/graphql-engine/main/community/branding/logo/hasura_logo_horizontal_blue_300x100.png)
+![Retool Icon](https://avatars.githubusercontent.com/u/27364458?s=200&v=4)
+
+
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
