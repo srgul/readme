@@ -11,7 +11,7 @@
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=srgul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Sait's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
