@@ -13,6 +13,10 @@
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 ![Next](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=FFFFFF)
+![Css](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=FFFFFF)
 
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 
