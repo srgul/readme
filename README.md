@@ -6,13 +6,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=srgul&show_icons=true&theme=radical)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=srgul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Sait's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 
@@ -24,3 +17,12 @@
 
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
 [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=srgul&show_icons=true&theme=radical)
+
+[![Sait's github trophy](https://github-profile-trophy.vercel.app/?username=srgul&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Sait's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srgul&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
